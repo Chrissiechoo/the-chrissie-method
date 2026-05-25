@@ -1268,7 +1268,7 @@ input:checked + .toggle-slider::before {
 
 /* AI Clone Interactive Chatbot */
 .bot-container {
-  height: 400px;
+  height: 550px;
   display: flex;
   flex-direction: column;
   border-radius: 16px;
